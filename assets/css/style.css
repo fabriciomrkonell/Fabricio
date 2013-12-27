@@ -6,7 +6,7 @@ body {
 
 .main {
 	text-align: center;
-	margin-top: 80px;	
+	margin-top: 70px;
 }
 
 hr{
@@ -15,11 +15,18 @@ hr{
 }
 
 a{
+	text-decoration: none;
 	color: white;
+}
+
+li a :hover{
+	text-decoration: none;	
+	opacity: 1;
 }
 
 i{
 	font-size: 80px;
+	opacity: 0.50;
 }
 
 ul{
