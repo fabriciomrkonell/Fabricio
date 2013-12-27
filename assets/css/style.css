@@ -19,13 +19,30 @@ i{
 
 ul{
 	list-style: none;
+	display: block;
+	list-style-type: disc;
+	-webkit-margin-before: 0px;
+	-webkit-margin-after: 0px;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	-webkit-padding-start: 0px;
 }
 
 li{
 	display: inline;	
 }
 
+.google-plus{
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
 .twitter{
-	margin-right: 20px;
-	margin-left: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.git-hib{
+	margin-right: 10px;
+	margin-left: 10px;
 }
