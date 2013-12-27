@@ -6,7 +6,11 @@ body {
 
 .main {
 	text-align: center;
-	margin-top: 90px;
+	margin-top: 90px;	
+}
+
+hr{
+	margin-top: 40px;
 	margin-bottom: 40px;
 }
 
@@ -30,7 +34,7 @@ ul{
 }
 
 li{
-	display: inline;	
+	display: inline;
 }
 
 .google-plus{
@@ -47,3 +51,26 @@ li{
 	margin-right: 20px;
 	margin-left: 20px;
 }
+
+@media (max-width: 470px) {
+	li{
+		display: block;
+	}
+
+	.twitter{
+		margin-top: 20px;
+	}
+
+	.git-hib{
+		margin-top: 20px;
+	}
+
+	.main {		
+		margin-top: 50px;	
+	}
+
+	hr{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+ }
