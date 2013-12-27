@@ -6,12 +6,12 @@ body {
 
 .main {
 	text-align: center;
-	margin-top: 90px;	
+	margin-top: 80px;	
 }
 
 hr{
 	margin-top: 40px;
-	margin-bottom: 40px;
+	margin-bottom:  25px;
 }
 
 a{
@@ -73,4 +73,9 @@ li{
 		margin-top: 20px;
 		margin-bottom: 20px;
 	}
+ }
+
+ .main-footer{
+ 	font-size: 20px;
+ 	font-family: monospace;
  }
