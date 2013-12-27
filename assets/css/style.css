@@ -1,0 +1,31 @@
+
+body {
+	background: #666;
+	color: #f3f3f3;
+}
+
+.main {
+	text-align: center;
+	margin-top: 50px;
+}
+
+a{
+	color: white;
+}
+
+i{
+	font-size: 80px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;	
+}
+
+.twitter{
+	margin-right: 20px;
+	margin-left: 20px;
+}
