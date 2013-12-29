@@ -44,11 +44,6 @@ li{
 	display: inline;
 }
 
-.google-plus{
-	margin-right: 20px;
-	margin-left: 20px;
-}
-
 .linkedin{
 	margin-right: 20px;
 	margin-left: 20px;
@@ -74,10 +69,6 @@ li{
 	}
 
 	.git-hib{
-		margin-top: 20px;
-	}
-
-	.linkedin{
 		margin-top: 20px;
 	}
 
