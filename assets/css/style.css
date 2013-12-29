@@ -49,6 +49,11 @@ li{
 	margin-left: 20px;
 }
 
+.linkedin{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
 .twitter{
 	margin-right: 20px;
 	margin-left: 20px;
@@ -59,7 +64,7 @@ li{
 	margin-left: 20px;
 }
 
-@media (max-width: 470px) {
+@media (max-width: 628px) {
 	li{
 		display: block;
 	}
@@ -72,8 +77,12 @@ li{
 		margin-top: 20px;
 	}
 
-	.main {		
-		margin-top: 50px;	
+	.linkedin{
+		margin-top: 20px;
+	}
+
+	.main {
+		margin-top: 50px;
 	}
 
 	hr{
@@ -83,6 +92,7 @@ li{
  }
 
  .main-footer{
- 	font-size: 20px;
- 	font-family: monospace;
+	font-size: 20px;
+	margin-bottom: 20px;
+	font-family: monospace;
  }
