@@ -59,7 +59,7 @@ li{
 	margin-left: 20px;
 }
 
-@media (max-width: 628px) {
+@media (max-width: 472px) {
 	li{
 		display: block;
 	}
